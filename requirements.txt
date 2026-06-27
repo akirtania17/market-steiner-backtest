@@ -1,0 +1,7 @@
+numpy
+pandas
+# Optional: data builders in scripts/ and experimental/ use yfinance
+yfinance
+# Optional: experimental/ scripts use these
+matplotlib
+networkx
